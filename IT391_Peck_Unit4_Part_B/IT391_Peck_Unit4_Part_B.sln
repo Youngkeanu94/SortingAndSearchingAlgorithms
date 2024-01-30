@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT391_Peck_Unit4_Part_B", "IT391_Peck_Unit4_Part_B.csproj", "{49D1A7D1-B70F-4709-84CA-0CE071292805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT391-Peck-Unit4-PartB", "..\IT391-Peck-Unit4-PartB\IT391-Peck-Unit4-PartB.csproj", "{7D9941AB-5CDE-4452-9F13-7147BDEA7B36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D1A7D1-B70F-4709-84CA-0CE071292805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D1A7D1-B70F-4709-84CA-0CE071292805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D1A7D1-B70F-4709-84CA-0CE071292805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D1A7D1-B70F-4709-84CA-0CE071292805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9941AB-5CDE-4452-9F13-7147BDEA7B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9941AB-5CDE-4452-9F13-7147BDEA7B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9941AB-5CDE-4452-9F13-7147BDEA7B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9941AB-5CDE-4452-9F13-7147BDEA7B36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BCCE209-E7A0-442E-86FE-EEBEBF451C5F}
+	EndGlobalSection
+EndGlobal

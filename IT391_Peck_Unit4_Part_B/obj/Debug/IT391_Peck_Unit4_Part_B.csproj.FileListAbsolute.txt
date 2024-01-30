@@ -1,0 +1,8 @@
+C:\Users\hunte\source\repos\IT391_Peck_Unit4_Part_B\obj\Debug\IT391_Peck_Unit4_Part_B.csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\IT391_Peck_Unit4_Part_B\obj\Debug\IT391_Peck_Unit4_Part_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\hunte\source\repos\IT391_Peck_Unit4_Part_B\obj\Debug\IT391_Peck_Unit4_Part_B.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\IT391_Peck_Unit4_Part_B\bin\Debug\IT391_Peck_Unit4_Part_B.exe.config
+C:\Users\hunte\source\repos\IT391_Peck_Unit4_Part_B\bin\Debug\IT391_Peck_Unit4_Part_B.exe
+C:\Users\hunte\source\repos\IT391_Peck_Unit4_Part_B\bin\Debug\IT391_Peck_Unit4_Part_B.pdb
+C:\Users\hunte\source\repos\IT391_Peck_Unit4_Part_B\obj\Debug\IT391_Peck_Unit4_Part_B.exe
+C:\Users\hunte\source\repos\IT391_Peck_Unit4_Part_B\obj\Debug\IT391_Peck_Unit4_Part_B.pdb
